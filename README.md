@@ -15,6 +15,7 @@ The following libraries are needed:
 
 * FUSE 2.6 or greater
 * ICU
+* libattr
 
 ```
 mkdir build
